@@ -1,5 +1,6 @@
 # Colab files:
 - Lab2: https://colab.research.google.com/drive/1UaoTKY9o2x_l3NAFNSD-6VBkl-Hz-NFx?usp=sharing
+- Lab3: https://colab.research.google.com/drive/1VocYyVuRLqsK23YG3ccmx_zj5_h3V7Mg?usp=sharing
 - Lab4: https://colab.research.google.com/drive/1TFcktvK5dDCqeOgCVGl0YRtTsc5ZhowJ?usp=sharing
 - Lab5/Quiz7: https://colab.research.google.com/drive/17KyJSS-vlLIEhesdsE2AhaSv9mFiBP10?usp=sharing
 - LabATQ: https://colab.research.google.com/drive/1sKOKGtM7RAv2awk9rmzSXiA-jX2OJshE?usp=sharing
