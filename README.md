@@ -3,6 +3,7 @@
 - Lab3: https://colab.research.google.com/drive/1VocYyVuRLqsK23YG3ccmx_zj5_h3V7Mg?usp=sharing
 - Lab4: https://colab.research.google.com/drive/1TFcktvK5dDCqeOgCVGl0YRtTsc5ZhowJ?usp=sharing
 - Lab5/Quiz7: https://colab.research.google.com/drive/17KyJSS-vlLIEhesdsE2AhaSv9mFiBP10?usp=sharing
+- Lab6/Quiz7.5: https://colab.research.google.com/drive/1N0kR4b-IIFMGHXMAFaTpFWHRdrDM4M0o?usp=sharing
 - LabATQ: https://colab.research.google.com/drive/1sKOKGtM7RAv2awk9rmzSXiA-jX2OJshE?usp=sharing
 - Quiz1: https://colab.research.google.com/drive/1qQdGHWYQrWjggdbUaBi-PzS6Adc4fsc7?usp=sharing
 - Quiz2: https://colab.research.google.com/drive/1uFIc-ZTvFC_FrgJkV5pnKOoR3a5WimHa?usp=sharing
